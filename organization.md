@@ -62,6 +62,7 @@ Core 팀은 블록체인 근본 기술에 대해 연구하는 팀입니다.
 - Ethereum Upgrade
 - Tendermint
 - Cosmos SDK
+- IBC
 - Polkadot
 - Substrate
 - CosmWasm
