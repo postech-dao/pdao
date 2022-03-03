@@ -1,5 +1,11 @@
 # PDAO 하위 조직
 
+PDAO는 관심분야에 따라 4개의 하위조직으로 구성되어있습니다.
+1. DAO & NFT & Game
+2. Core
+3. DeFi
+4. Dev
+
 ## DNG (DAO NFT Game) Team 
 
 DNG 팀은 PDAO에서 크립토의 비즈니스적인 부분을 제일 깊게 연구해볼 수 있는 팀입니다.
@@ -64,6 +70,7 @@ Core 팀은 블록체인 근본 기술에 대해 연구하는 팀입니다.
 
 ### PDAO내 주요 활동
 - Dev팀 서포트
+- 고품격 세미나 자주 하기
 - 인사이트 만들어주기 (?)
 
 ## DeFi Team
@@ -100,7 +107,7 @@ DeFi팀은 크립토의 경제, 금융적인 가치에 주목합니다.
 - Binance
 
 ### PDAO내 주요 활동
-- Treasury 운용
+- DAO Treasury 운용
 - DAO 멤버들 돈굴리는거 도와주기 (?)
 
 ## Dev Team
