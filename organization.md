@@ -126,6 +126,7 @@ DeFi팀은 크립토의 경제, 금융적인 가치에 주목합니다.
 - Solidity & EVM
 - OpenZeppelin
 - Rust & CosmWasm
+- Metamask
 - Terra Station
 
 ### PDAO내 주요 활동
