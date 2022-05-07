@@ -1,4 +1,4 @@
-# PDAO의 비전
+# PDAO 초안
 
 by [양준하](https://junha1.github.io), 2022.05.08
 
