@@ -92,7 +92,8 @@
 - Parity Ethereum, LightHouse, Substrate(Polkadot), Solana, Near Protocol, zkSync, CosmWasm(Cosmos), Tendermint&IBC(informal), Sui, eWASM, Foundry, ...
 - EVM과 Solidty는 범용이 아니기 때문에 IDE나 디버거등이 빈약하고, 구조적으로 한정적일수밖에 없는 코드베이스
 - 반면 Rust와 WASM은 범용이기 때문에 커뮤니티, 코드베이스, 개발툴이나 최적화 측면에서 훨씬 더 성숙
-- 또한 Ethereum Upgrade의 방대한 계획에 따르면 먼 미래에 EVM 대신 eWASM이라는 VM이 도입될 예정 (지금 우선순위 문제로 언급이 안되고 있지만, 필요성에는 공감이 이뤄졌음)
+- 또한 Ethereum Upgrade의 방대한 계획에 따르면 먼 미래에 EVM 대신 eWASM이라는 VM을 도입하자는 프로포절이 있었고 필요성에 대한 공감대도 꽤 잘 형성됐음
+- 다만 지금 우선순위 문제로 언급이 안되고 있고, 최근 비탈릭의 글(https://vitalik.ca/general/2022/03/29/road.html)에 따르면 아직까지 그렇게 현실적인 방안은 아니라고 
 
 ### Rust in General
 - 웹이나 디코봇 등도 Rust로 할 수 있음
