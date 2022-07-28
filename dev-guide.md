@@ -31,7 +31,18 @@ From [angular project](https://github.com/angular/angular/blob/22b96b9/CONTRIBUT
 1. style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 1. test: Adding missing tests or correcting existing tests
 
+### Examples
+```
+<feat>: add account check logic
+
+We have to verify 3 things here:
+1. blah
+2. blah
+3. blah
+```
+
 ## Pull Request Convention
+- For the title, use imperative mood.
 - Use **rebase only** (No merge or squash).
 - Push your works on your own forked repo, and make a **PR across forks**.
 - Use the same title (head) and content (body) for a single-commit PR.
