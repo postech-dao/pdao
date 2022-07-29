@@ -49,3 +49,21 @@ We have to verify 3 things here:
 - When the PR resolves some issues, put `fixes #123` in the content of the PR, not in the commit messages.
 - Conversation must be resolved by the commentor, not the PR author.
 - Do not take the Github notifications as the communication channel; use Discord. 
+
+
+## Rust
+### Use
+Use a single chunk of `use`.
+
+```rust
+use a;
+use b;
+use c;
+```
+not
+```rust
+use a;
+use b;
+
+use c;
+```
