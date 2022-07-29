@@ -33,7 +33,7 @@ From [angular project](https://github.com/angular/angular/blob/22b96b9/CONTRIBUT
 
 ### Examples
 ```
-<feat>: add account check logic
+feat: add account check logic
 
 We have to verify 3 things here:
 1. blah
