@@ -3,33 +3,41 @@
 ## Commit Message Convention
 
 ```
-<type>: do something
+<type>: <subject>
 ```
 
 or
 
 ```
-<type>: do something
+<type>: <subject>
 
-It does something.
+<description>
 ```
 
-- Use imperative mood.
-- Omit articles (`a/an` and `the`).
 - Always put the proper `<type>`
+- `<subject>`
+  - summarize your change
+  - use imperative mood.
+  - Omit articles (`a/an` and `the`).
+  - should not exceed 75 characters
+  - must start with lowercase
+- `<description>` 
+  - detailed explantion of your change
 
 ### Types
 From [angular project](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
-1. build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
-1. ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
-1. docs: Documentation only changes
-1. feat: A new feature
-1. fix: A bug fix
-1. perf: A code change that improves performance
-1. refactor: A code change that neither fixes a bug nor adds a feature
-1. style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-1. test: Adding missing tests or correcting existing tests
+1. build: Changes that affect the build system or external dependencies 
+2. ci: Changes to our CI configuration files and scripts 
+3. docs: Documentation only changes
+4. feat: A new feature
+5. fix: A bug fix
+6. perf: A code change that improves performance
+7. refactor: A code change that neither fixes a bug nor adds a feature
+8. style: Changes that do not affect the meaning of the code 
+9. test: Adding missing tests or correcting existing tests
+10. revert: Revert commit it should begin with `revert: `, followed by the header of the reverted commit. 
+`<description>` must contain `This reverts commit <hash>.`
 
 ### Examples
 ```
