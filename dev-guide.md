@@ -75,3 +75,6 @@ use b;
 
 use c;
 ```
+
+## Naming & Versioning
+A crate name must start with `pdao-`, except those crates in the `simperby` project (they're for general purpose).
