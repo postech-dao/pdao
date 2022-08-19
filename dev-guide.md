@@ -76,5 +76,19 @@ use b;
 use c;
 ```
 
+### `Rc` & `Arc`
+Use `Rc::clone(&object)`:
+```rust
+let object = std::sync::Rc::new(inner_object);
+// Explicit cloning of `Rc`.
+let another_object = std::sync::Rc::clone(&object);
+```
+Do not use confusing `object.clone()`:
+```rust
+let object = std::sync::Rc::new(inner_object);
+// This can be seen as cloning the inner object, not cloning the `Rc`, to other reviewers.
+let another_object = object.clone();
+```
+
 ## Naming & Versioning
 A crate name must start with `pdao-`, except those crates in the `simperby` project (they're for general purpose).
