@@ -75,6 +75,19 @@ use b;
 
 use c;
 ```
+Use `use super::*` for test modules:
+```
+mod test {
+    use super::*;
+}
+```
+not
+```
+mod test {
+    use super::a;
+    use super::b;
+}
+```
 
 ### `Rc` & `Arc`
 Use `Rc::clone(&object)`:
