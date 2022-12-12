@@ -1,0 +1,8 @@
+{
+  "public_key": "02bef40a5a89809e2e070f6ac129e6ca8db57b456a0a6d7484337ad2ab865a0cfd",
+  "name": "박채영",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "김태훈",
+  "consensus_delegations": "김태훈"
+}

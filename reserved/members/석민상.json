@@ -1,0 +1,8 @@
+{
+  "public_key": "030e18f7ead021a6665ab9f9f8ef717d7a061602a1842461b386f41631cfc0c910",
+  "name": "석민상",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "곽성재",
+  "consensus_delegations": "곽성재"
+}

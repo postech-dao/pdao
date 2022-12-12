@@ -1,0 +1,57 @@
+{
+  "header": {
+    "author": "02e827d75e7586ab36f5c48c088b6b6c1f81fbb34272a4e53fd0dd6b56b19e15dd",
+    "prev_block_finalization_proof": [],
+    "previous_hash": "93ecbf4fca472e2210a596b6217165baad9bcc3155184f82639e0854c23fd379",
+    "height": 0,
+    "timestamp": 1670773692000,
+    "commit_merkle_root": "0000000000000000000000000000000000000000000000000000000000000000",
+    "repository_merkle_root": "0000000000000000000000000000000000000000000000000000000000000000",
+    "validator_set": [
+      [
+        "02e827d75e7586ab36f5c48c088b6b6c1f81fbb34272a4e53fd0dd6b56b19e15dd",
+        6
+      ],
+      [
+        "031081f12469a2f82a3916265a3fef7b48146325fd6380346d1da58b222ce50140",
+        6
+      ],
+      [
+        "0301bed957ec96cbac2cb02f39681f643b2892c355bd76f7183e4cde0d6f5fed2d",
+        6
+      ],
+      [
+        "038843e217e7ed081f876cb7d29aca5b9e6de5fdef616995abb350d5d1a10260a9",
+        6
+      ],
+      [
+        "02f360eb2b4d17f53ab70f2787cd7122d0b374916b30cd015d29f052106763a2f2",
+        6
+      ]
+    ],
+    "version": "0.1.0"
+  },
+  "genesis_proof": [
+    {
+      "signature": "fe2fc890d98a053b6ca57789d7c0209ea918d1da54608795b0b4ef24905fc3bd72527c06a0cd4790450d967c648e03f903a88e399f52ba25242236b98bbacace1c",
+      "signer": "02e827d75e7586ab36f5c48c088b6b6c1f81fbb34272a4e53fd0dd6b56b19e15dd"
+    },
+    {
+      "signature": "b7df49c390e9be8fae18abdb87a309f910a46256788534c6400cf2d2e1d92c861e33700de5525b76dd5b586d16fc81d2b3fa786046ccac65bcc5a2ddba7cac6f1b",
+      "signer": "031081f12469a2f82a3916265a3fef7b48146325fd6380346d1da58b222ce50140"
+    },
+    {
+      "signature": "e01829dbcb61c35205e94f1ff05fe05c0403caa074d0ae48e081fea16137d2645a06586fac622ca975c9aed8483148b3404d7ef6f20ebdc2f85d55e5c2476b211c",
+      "signer": "0301bed957ec96cbac2cb02f39681f643b2892c355bd76f7183e4cde0d6f5fed2d"
+    },
+    {
+      "signature": "705c948cff2034438a917933be16dc88c1fdd565d8d3786b6eb53af258ddff83282184857a7c4f2c9efd0a94fcb97355691557c7fef18e4c0f83dcc2696668111c",
+      "signer": "038843e217e7ed081f876cb7d29aca5b9e6de5fdef616995abb350d5d1a10260a9"
+    },
+    {
+      "signature": "1b8bb1652368be9d8d355b4c059dd0a14d5b7e615909782bcbb52c015ddf57a845440b6e281f7d4d33e7810815978b222a2683a580dccb9db6e097e88444f1981b",
+      "signer": "02f360eb2b4d17f53ab70f2787cd7122d0b374916b30cd015d29f052106763a2f2"
+    }
+  ],
+  "chain_name": "pdao-mainnet"
+}

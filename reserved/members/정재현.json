@@ -1,0 +1,8 @@
+{
+  "public_key": "03eac38b95937f88d4b56b7166aa801143d560500f17a734b02f2d562cc08433e3",
+  "name": "정재현",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "양준하",
+  "consensus_delegations": "양준하"
+}

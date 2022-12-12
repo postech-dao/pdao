@@ -1,0 +1,8 @@
+{
+  "public_key": "02dbad71c0ebac2b23ffe2cac9d93f88b90cc990e34c5d6f508e2d33bf3a93f20a",
+  "name": "박찬익",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "곽성재",
+  "consensus_delegations": "곽성재"
+}

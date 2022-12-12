@@ -1,0 +1,8 @@
+{
+  "public_key": "03ad26bbbfebdd6301907832ce1d10b0d0cf053b60a42573a3d11dccb3b8b8983f",
+  "name": "차은성",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "김태훈",
+  "consensus_delegations": "김태훈"
+}

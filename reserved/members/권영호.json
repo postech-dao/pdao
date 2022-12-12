@@ -1,0 +1,8 @@
+{
+  "public_key": "03cce6db294175dd9034acc5d822e9dc8fdb34ccb4a258dc122457d21beb7454fd",
+  "name": "권영호",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegations": "박정훈",
+  "consensus_delegations": "박정훈"
+}
