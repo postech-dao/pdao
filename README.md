@@ -8,7 +8,7 @@ PDAO를 이해하기 위해 필요한 일련의 문서들은 다음과 같습니
 - [PDAO 공식 홈페이지](https://dao.postech.ac.kr): PDAO의 공식 홈페이지입니다.
 - [PDAO: The Multichain DAO](pdao-the-multichain-dao.md): PDAO만의 유니크한 DAO 구조와 그 핵심인 PBC (PDAO Beacon Chain)에 대한 기술적인 오버뷰를 소개합니다.
 - [PDAO 헌법 (WIP)](constitution.md): PDAO의 헌법입니다. PDAO의 운영 방식, 규칙 등을 정의합니다.
-- [Simperby](https://github.com/postech-dao/simperby): PDAO의 핵심 오픈소스 프로젝트이자 PDAO의 본체인 PBC를 구동하는 블록체인 엔진입니다.
+- [Simperby](https://github.com/postech-dao/simperby): PDAO의 핵심 오픈소스 프로젝트이자 PDAO의 본체인 PDAO Chain을 구동하는 블록체인 엔진입니다.
 - [Simperby: Protocol Overview](https://github.com/postech-dao/simperby/blob/main/docs/protocol_overview.md): Simperby의 가버넌스, P2P 채팅, 컨센서스에 대한 프로토콜을 설명합니다.
 - [PDAO 공식 발표 슬라이드](https://drive.google.com/file/d/1FHm3I8DTloRAIdkwxFQPk4ILlP2aTQgC/view): 위 내용을 전반적으로 다루는 PDAO 소개자료입니다.
 
@@ -81,7 +81,7 @@ PDAO의 목적을 달성하기 위해 재단의 구현체로서 DAO를 선택한
 
 ## DAO는 어떻게 운영됩니까?
 
-- 자체 체인인 **PBC** (PDAO Beacon Chain)가 DAO의 핵심 주체입니다.
+- 자체 체인인 **PDAO Chain**이 DAO의 핵심 주체입니다.
 - PBC는 PDAO가 유지보수하는 오픈소스 프로젝트이자 블록체인 엔진인 **Simperby**로 구동됩니다.
 - PDAO에 있어서 PBC는 5가지로 작용합니다.
    1. 스탠드얼론한 P2P 커뮤니케이션 채널
